@@ -2,8 +2,7 @@
 
 ## Repository structure
 The is the repository for the article "" and contains the following elements:
-
-- data: method list  
+ 
 - model: phrase and w2v models 
 - code: the code to generate the results presented in the article.
 
