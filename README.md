@@ -11,7 +11,8 @@ This repository contains embedding training and journal citation network constru
 
 - Framework for method list expansion 
 
-![Slide1](https://user-images.githubusercontent.com/60612969/174125495-35c245b5-4538-4da3-8229-b9e559ebcf8d.jpg)
+![image](https://user-images.githubusercontent.com/60612969/182176493-f141f6cd-d2c8-4e06-9e8a-a5eb2e695646.png)
+
 
 - Example 
 ![query_2](https://user-images.githubusercontent.com/60612969/174125829-439c0f7d-0f75-4506-a14d-5a7f6aee3de6.png)
