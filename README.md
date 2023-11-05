@@ -1,7 +1,7 @@
 # Method embedding
 
 ## Repository structure
-The is the repository for the article "" and contains the following elements:
+This is the repository for the article "" and contains the following elements:
  
 - model: phrase and w2v models 
 - code: the code to generate the results presented in the article.
