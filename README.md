@@ -19,6 +19,7 @@ This repository contains embedding training and journal citation network constru
 More information about our method can be found in the following article:
 
  Yangliu Fan, Sune Lehmann, Anders Blok; New methodologies for the digital age? How methods (re-)organize research using social media data. Quantitative Science Studies 2023; doi: [https://doi.org/10.1162/qss_a_00271](https://direct.mit.edu/qss/article/doi/10.1162/qss_a_00271/118072)
+ 
   
 If you use any of the provided material for your work, please cite us as follows:
 ```
