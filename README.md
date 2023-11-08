@@ -23,7 +23,7 @@ More information about our method can be found in the following article:
   
 If you use any of the provided material for your work, please cite us as follows:
 ```
-@article{smd_methods_2023,
+@article{method_embedding_2023,
   author={Y. Fan, S. Lehmann and A. Blok},
   doi={10.1162/qss_a_00271}
   journal={Quantitative Science Studies},
