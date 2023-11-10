@@ -13,6 +13,8 @@ This repository contains embedding training and journal citation network constru
 
 ![image](https://github.com/YangliuF95/Method_embedding/assets/60612969/18be8cba-7ae7-4308-ba99-d72f24b3bc51)
 
+- An interactive data visualization of [the embedding space](https://yangliuf95.github.io/) 🗺️🔤 
+
 
 ## Reference
 
